@@ -1,8 +1,9 @@
 # GeoAlarm
 ## Description
-GeoAlarm is an example of using MVP Clean archicture to buid geo alarmGeoArm is an example of using MVP Clean architecture to build geo alarm.
+is an example of using MVP Clean architecture to build geo alarm GeoArm is an example of using MVP Clean architecture to build geo alarm.
+
 ## Features
- * MVP architucte using Uncle Bob Clean Archicture
+ * MVP architecture using Uncle Bob Clean Architecture
  * Built over RxJava
  * Using battery saving geofencing
  * Have many test cases
