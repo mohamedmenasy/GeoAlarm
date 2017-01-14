@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GeoAlaram</string>
+    <string name="action_completed">Completed Alarms</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="ok">OK</string>
+    <string name="dismiss">dismiss</string>
+    <string name="permission_Loation_rationale">Please Enable Location Permission</string>
+    <string name="permissions_not_granted">Access To your location iis denied</string>
+    <string name="permision_available_location">Location Permission Granted</string>
+    <string name="set_as_alarm_location">Set this location as alarm location</string>
+</resources>
